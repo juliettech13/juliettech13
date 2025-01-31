@@ -2,8 +2,6 @@
 
 Fancy seeing you here.
 
-![banner](https://res.cloudinary.com/dacofvu8m/image/upload/v1738331245/juliettech_l7aaoc.jpg)
-
 Ex-diplomat turned Software Engineer gone Founder. I build projects, nerd out on crypto agents, teach software engineering, and throw summer camps for founders.
 
 My craft lies in leading, designing & building developer experiences, creating educational technical content, and supporting engineers launching products to market.
@@ -13,6 +11,8 @@ Big believer that the better the developer experience, the better the user exper
 I learn fast, adapt easily, and take my information capture system seriously. I've been practicing hot yoga 26+2 since 2015 and currently doing my 200h YTT.
 
 Writing and coding are my preferred mediums for creating leverage. And I'm always a yes for live music and parks 💙.
+
+![banner](https://res.cloudinary.com/dacofvu8m/image/upload/c_fill,w_600,h_600,ar_1:1/v1738331245/juliettech_l7aaoc.jpg)
 
 ## Some background about me 👩🏻‍💻
 
