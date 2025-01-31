@@ -16,8 +16,8 @@ Writing and coding are my preferred mediums for creating leverage. And I'm alway
 
 ## Some background about me 👩🏻‍💻
 
-- I am the CEO & CTO of Adult Camp - hosting quarterly summer camps for elite entrepreneurs, creatives and technical professionals in the mountains of Panama.
-- I am also the engineering mastermind behind Get You there - an immigration platform designed to enable global opportunities for highly-skilled workers.
+- I am the CEO & CTO of [Adult Camp](https://adultcamp.io) - hosting quarterly summer camps for elite entrepreneurs, creatives and technical professionals in the mountains of Panama.
+- I am also the engineering mastermind behind [Get You There](https://getyouthere.io) - an immigration platform designed to enable global opportunities for highly-skilled workers.
 - I led Developer Relations at [Cyfrin](https://cyfrin.io), a Web3 security powerhouse. We host a developer education hub, a competitive auditing platform, an auditor aggregator tool, and a private audits firm.
 - On the side, I also run [Surge Women](https://surgewomen.io), an organization onboarding women into Web3. Last year we sold out the Surge Passport NFT collection in less than a week - 5k utility NFTs providing token-holders with crypto opportunities, access to events, and free/discounted education.
 - I [speak](https://juliet.tech/talks) at major crypto conferences and unversities, write a weekly newsletter called [nerd_splash](https:/newsletter.juliet.tech) and post about startups, travel, and investing in my [personal blog](https://juliet.tech).
