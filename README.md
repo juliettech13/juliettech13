@@ -2,7 +2,7 @@
 
 Fancy seeing you here.
 
-![banner](https://res.cloudinary.com/dacofvu8m/image/upload/v1731511912/CleanShot_2024-11-12_at_11.46.10_gkrfiw.png)
+![banner](https://res.cloudinary.com/dacofvu8m/image/upload/v1738331245/juliettech_l7aaoc.jpg)
 
 Ex-diplomat turned Software Engineer gone Founder. I build projects, nerd out on crypto agents, teach software engineering, and throw summer camps for founders.
 
